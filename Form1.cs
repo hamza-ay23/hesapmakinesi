@@ -50,7 +50,7 @@ namespace hesapmakinesi
         private void btnbölü_Click(object sender, EventArgs e)
         {
             sayi1 = double.Parse(txtsayý1.Text);
-
+            // test
             sayi2 = double.Parse(txtsayý2.Text);
 
             double sonuc = sayi1 / sayi2;
